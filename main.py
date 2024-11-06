@@ -1,0 +1,8 @@
+print("REGISTRASI ONLINE")
+print (f"{10 * '='}")
+nama = input('Nama lengkap\n')
+alamat = input ('Alamat\n')
+email = input ('Email\n')
+print (f"{10 * '='}")
+print (f"Register {nama} ,dengan alamat {alamat} ,dan email {email} .")
+print ("YOUR REGISTRATION IS SUCCESFULL")
